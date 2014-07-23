@@ -1,0 +1,17 @@
+# A Spark Worker will be started on each of the machines listed below.
+dco-node121.dco.ethz.ch
+dco-node122.dco.ethz.ch
+dco-node123.dco.ethz.ch
+dco-node124.dco.ethz.ch
+dco-node125.dco.ethz.ch
+dco-node126.dco.ethz.ch
+dco-node127.dco.ethz.ch
+dco-node128.dco.ethz.ch
+dco-node129.dco.ethz.ch
+dco-node130.dco.ethz.ch
+dco-node131.dco.ethz.ch
+dco-node132.dco.ethz.ch
+dco-node133.dco.ethz.ch
+dco-node134.dco.ethz.ch
+dco-node135.dco.ethz.ch
+dco-node136.dco.ethz.ch
